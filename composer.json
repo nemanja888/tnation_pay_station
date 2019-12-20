@@ -1,0 +1,16 @@
+{
+    "name": "nemanja/tnation_task",
+    "description": "pay station app",
+    "authors": [
+        {
+            "name": "Nemanja Jekic",
+            "email": "nemanja.jekic90@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
